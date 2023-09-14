@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 12px;
+    background-color: gold;
+}
+
+
+img {
+    filter: brightness(1);
+    box-shadow: 21px 12px 12px black;
+    margin-left: 360px;
+    width: 40%;
+}
+.header {
+    margin-top: 12px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 4px 4px 4px black;
+}
+
+.history {
+    box-shadow: 12px 12px 12px white;
+    margin-left: 190px;
+    width: 70%;
+    height: 1060px;
+    background-color:darkorange;
+    text-align:justify;
+}
+h3 {
+    margin-top: 22px;
+    text-align: center;
+    font-size: 1.6rem;
+}
+p {
+    margin-top: 20px;
+    margin-left: 42px;
+    margin-right: 22px;
+}
+.footer {
+    text-align: center;
+    margin-top: 12px;
+}
